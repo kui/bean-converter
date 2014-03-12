@@ -1,0 +1,7 @@
+Bean Converter
+==================
+
+Java Bean Converter with external processes
+
+* [Sample1](src/test/java/InteractiveCommandConverterSample.java)
+* [Sample2](src/test/java/OneshotCommandConverterSample.java)
